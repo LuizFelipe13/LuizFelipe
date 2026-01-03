@@ -47,8 +47,8 @@ I work across the entire lifecycle of a solution — from understanding the prob
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: [Your LinkedIn Profile Here]  
-📧 Email: [your-email@example.com]
+💼 LinkedIn: [(https://www.linkedin.com/in/luiz-felipe-pereira-alcebiades/)]  
+📧 Email: [luiz_felipesbc@hotmail.com]
 
 Feel free to explore my repositories, open issues, or connect with me.  
 Let’s build something great 🚀
